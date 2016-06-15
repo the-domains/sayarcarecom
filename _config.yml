@@ -1,0 +1,14 @@
+layout_spectrum: 0.13760132668539882
+typography_spectrum: 0.9572850784752518
+color:
+  brandStrength: 0.7131378396879882
+  lightness: 0.08317869785241783
+  saturation: 0.853335740743205
+  rhythmicContrast: 0.6082071822602302
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: sayarcare.com
